@@ -1,0 +1,74 @@
+{
+  "game_items": [
+    {
+      "id": 1,
+      "naam": "Laser Gun",
+      "categorie": "Wapen",
+      "beschrijving": "Krachtig wapen met hoge snelheid",
+      "waarde": 200
+    },
+    {
+      "id": 2,
+      "naam": "Health Potion",
+      "categorie": "Hulpmiddel",
+      "beschrijving": "Herstelt 50 gezondheidspunten",
+      "waarde": 50
+    },
+    {
+      "id": 3,
+      "naam": "Shield",
+      "categorie": "Verdediging",
+      "beschrijving": "Geeft tijdelijke bescherming tegen schade",
+      "waarde": 150
+    },
+    {
+      "id": 4,
+      "naam": "Speed Boots",
+      "categorie": "Accessoire",
+      "beschrijving": "Verhoogt de loopsnelheid tijdelijk",
+      "waarde": 120
+    },
+    {
+      "id": 5,
+      "naam": "Rocket Launcher",
+      "categorie": "Wapen",
+      "beschrijving": "Schiet raketten met hoge explosieve kracht",
+      "waarde": 300
+    },
+    {
+      "id": 6,
+      "naam": "Teleportation Device",
+      "categorie": "Accessoire",
+      "beschrijving": "Verplaatst de speler naar een willekeurige locatie",
+      "waarde": 500
+    },
+    {
+      "id": 7,
+      "naam": "Grenade",
+      "categorie": "Wapen",
+      "beschrijving": "Een explosief apparaat dat schade veroorzaakt in een bepaald gebied",
+      "waarde": 100
+    },
+    {
+      "id": 8,
+      "naam": "Energy Drink",
+      "categorie": "Hulpmiddel",
+      "beschrijving": "Verhoogt de energie van de speler tijdelijk",
+      "waarde": 80
+    },
+    {
+      "id": 9,
+      "naam": "Invisibility Cloak",
+      "categorie": "Accessoire",
+      "beschrijving": "Maakt de speler tijdelijk onzichtbaar voor vijanden",
+      "waarde": 400
+    },
+    {
+      "id": 10,
+      "naam": "Health Pack",
+      "categorie": "Hulpmiddel",
+      "beschrijving": "Herstelt 100 gezondheidspunten",
+      "waarde": 200
+    }
+  ]
+}
