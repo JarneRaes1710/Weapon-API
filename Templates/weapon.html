@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ item['naam'] }} - Wapen Details</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+    <div class="weapon-detail">
+        <h1>{{ item['naam'] }}</h1>
+        <h3>Categorie: {{ item['categorie'] }}</h3>
+        <p><strong>Beschrijving:</strong> {{ item['beschrijving'] }}</p>
+        <p><strong>Waarde:</strong> {{ item['waarde'] }}</p>
+        <img src="https://via.placeholder.com/400x300.png?text={{ item['naam'] }}" alt="{{ item['naam'] }} image">
+        <a href="/">Terug naar wapens overzicht</a>
+    </div>
+</body>
+
+</html>
