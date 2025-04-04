@@ -1,3 +1,8 @@
+#https://flask.palletsprojects.com/en/stable/
+#https://requests.readthedocs.io/en/latest/
+#https://chatgpt.com/
+#https://docs.python.org/3/library/json.html
+
 import requests
 from flask import Flask, render_template
 import json
